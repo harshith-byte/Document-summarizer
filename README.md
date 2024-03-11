@@ -23,11 +23,6 @@
   - git clone https://github.com/harshith-byte/Document-summarizer.git
 ```
 
-- open terminal and Change directory to main
-```
-  - cd Document-summarizer
-```
-
 - run docker-compose 
 ```
   - docker-compose up
